@@ -40,13 +40,6 @@ export const mockData = {
           "url": "https://outlook.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/outlook.com"
-        },
-        {
-          "id": "site-1767676021182",
-          "name": "flutter pub",
-          "url": "https://pub.dev/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/pub.dev"
         }
       ]
     },
@@ -249,6 +242,13 @@ export const mockData = {
           "url": "https://www.jyshare.com/front-end/8006/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.jyshare.com"
+        },
+        {
+          "id": "site-1767687886755",
+          "name": "ip风险监测",
+          "url": "https://ipip0.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ipip0.net"
         }
       ]
     },
