@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://outlook.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/outlook.com"
+        },
+        {
+          "id": "site-1767676021182",
+          "name": "flutter pub",
+          "url": "https://pub.dev/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/pub.dev"
         }
       ]
     },
