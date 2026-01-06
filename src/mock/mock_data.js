@@ -48,7 +48,22 @@ export const mockData = {
       "name": "AI智能",
       "icon": "🤖",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1767670895702",
+          "name": "WONG公益站",
+          "url": "https://wzw.pp.ua/console/token",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wzw.pp.ua"
+        },
+        {
+          "id": "site-1767670925847",
+          "name": "123nhh公益站",
+          "url": "https://new.123nhh.xyz/console",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/new.123nhh.xyz"
+        }
+      ]
     },
     {
       "id": "cloud",
