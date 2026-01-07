@@ -349,6 +349,13 @@ export const mockData = {
           "url": "https://www.coursera.org",
           "description": "在线课程平台",
           "icon": "/sitelogo/www.coursera.org.ico"
+        },
+        {
+          "id": "site-1767760735371",
+          "name": "论文查询",
+          "url": "https://www.semanticscholar.org/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.semanticscholar.org"
         }
       ]
     },
