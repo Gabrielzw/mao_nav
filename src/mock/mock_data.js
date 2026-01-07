@@ -62,6 +62,13 @@ export const mockData = {
           "url": "https://new.123nhh.xyz/console",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/new.123nhh.xyz"
+        },
+        {
+          "id": "site-1767769613681",
+          "name": "taka公益站",
+          "url": "https://codex.661118.xyz/",
+          "description": "开个公益站，纯team号池，支持传参，最高xhigh，专门供应5.2和5.2codex，纯逆向，应该不会做其他模型，按次收费，0.1刀一次，初始送5刀，每天签到1刀\n余额可以使用ldc兑换，5:1",
+          "icon": "https://www.faviconextractor.com/favicon/codex.661118.xyz"
         }
       ]
     },
