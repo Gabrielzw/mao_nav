@@ -76,6 +76,13 @@ export const mockData = {
           "url": "https://tw.b4u.qzz.io/luckydraw",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tw.b4u.qzz.io"
+        },
+        {
+          "id": "site-1768008523862",
+          "name": "Gemini Enterprise",
+          "url": "https://business.gemini.google/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -263,13 +270,6 @@ export const mockData = {
           "url": "https://ipip0.net/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ipip0.net"
-        },
-        {
-          "id": "site-1768007013531",
-          "name": "魔曰",
-          "url": "https://abra.js.org/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/abra.js.org"
         }
       ]
     },
