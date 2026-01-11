@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://business.gemini.google/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1768102682899",
+          "name": "Neb公益站",
+          "url": "https://ai.zzhdsgsss.xyz/console",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ai.zzhdsgsss.xyz"
         }
       ]
     },
