@@ -104,6 +104,13 @@ export const mockData = {
           "url": "https://wcdk.224442.xyz/index.php",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/wcdk.224442.xyz"
+        },
+        {
+          "id": "site-1768959277187",
+          "name": "随时跑路公益站",
+          "url": "https://runanytime.hxi.me/console/token",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/runanytime.hxi.me"
         }
       ]
     },
