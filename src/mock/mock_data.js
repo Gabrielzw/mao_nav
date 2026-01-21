@@ -90,6 +90,20 @@ export const mockData = {
           "url": "https://ai.zzhdsgsss.xyz/console",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ai.zzhdsgsss.xyz"
+        },
+        {
+          "id": "site-1768959170291",
+          "name": "WindHub公益站",
+          "url": "https://api.224442.xyz/panel/topup",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.224442.xyz"
+        },
+        {
+          "id": "site-1768959191657",
+          "name": "WindHub福利站",
+          "url": "https://wcdk.224442.xyz/index.php",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wcdk.224442.xyz"
         }
       ]
     },
