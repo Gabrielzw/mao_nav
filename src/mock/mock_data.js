@@ -455,6 +455,13 @@ export const mockData = {
           "url": "https://tv.dogegg.online/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/tv.dogegg.online"
+        },
+        {
+          "id": "site-1769564078835",
+          "name": "1Music",
+          "url": "https://1music.cc/zh-CN",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/1music.cc"
         }
       ]
     },
