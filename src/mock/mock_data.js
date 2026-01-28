@@ -457,11 +457,11 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/tv.dogegg.online"
         },
         {
-          "id": "site-1769564078835",
-          "name": "1Music",
-          "url": "https://1music.cc/zh-CN",
+          "id": "site-1769564451554",
+          "name": "网易云音乐无损解析",
+          "url": "https://wyapi.toubiec.cn/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/1music.cc"
+          "icon": "https://www.faviconextractor.com/favicon/wyapi.toubiec.cn"
         }
       ]
     },
