@@ -111,6 +111,13 @@ export const mockData = {
           "url": "https://runanytime.hxi.me/console/token",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/runanytime.hxi.me"
+        },
+        {
+          "id": "site-1769581548041",
+          "name": "Elysiver公益站",
+          "url": "https://elysiver.h-e.top/console",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/elysiver.h-e.top"
         }
       ]
     },
