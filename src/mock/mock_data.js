@@ -457,11 +457,18 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/tv.dogegg.online"
         },
         {
-          "id": "site-1769564451554",
-          "name": "网易云音乐无损解析",
-          "url": "https://wyapi.toubiec.cn/",
+          "id": "site-1769564078835",
+          "name": "1Music",
+          "url": "https://1music.cc/zh-CN",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/wyapi.toubiec.cn"
+          "icon": "https://www.faviconextractor.com/favicon/1music.cc"
+        },
+        {
+          "id": "site-1769571825834",
+          "name": "HE Music",
+          "url": "https://y.wjhe.top/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/y.wjhe.top"
         }
       ]
     },
