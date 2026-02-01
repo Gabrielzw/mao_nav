@@ -125,6 +125,13 @@ export const mockData = {
           "url": "https://api.hotaruapi.top/console",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/api.hotaruapi.top"
+        },
+        {
+          "id": "site-1769956232640",
+          "name": "公益站合集",
+          "url": "https://ldoh.105117.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ldoh.105117.xyz"
         }
       ]
     },
