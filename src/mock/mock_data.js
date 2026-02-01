@@ -118,6 +118,13 @@ export const mockData = {
           "url": "https://elysiver.h-e.top/console",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/elysiver.h-e.top"
+        },
+        {
+          "id": "site-1769956125395",
+          "name": "Hotaru公益站",
+          "url": "https://api.hotaruapi.top/console",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.hotaruapi.top"
         }
       ]
     },
