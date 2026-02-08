@@ -94,14 +94,14 @@ export const mockData = {
         {
           "id": "site-1768959170291",
           "name": "WindHub公益站",
-          "url": "https://api.224442.xyz/panel/topup",
+          "url": "https://windhub.cc/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/api.224442.xyz"
+          "icon": "https://www.faviconextractor.com/favicon/windhub.cc"
         },
         {
           "id": "site-1768959191657",
           "name": "WindHub福利站",
-          "url": "https://wcdk.224442.xyz/index.php",
+          "url": "https://wcdk.224442.xyz/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/wcdk.224442.xyz"
         },
@@ -132,6 +132,20 @@ export const mockData = {
           "url": "https://ldoh.105117.xyz/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/ldoh.105117.xyz"
+        },
+        {
+          "id": "site-1770532872730",
+          "name": "星野Ai",
+          "url": "https://api.feisakura.fun/console",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.feisakura.fun"
+        },
+        {
+          "id": "site-1770532897067",
+          "name": "NPC公益站",
+          "url": "https://npcodex.kiroxubei.tech/console/token",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/npcodex.kiroxubei.tech"
         }
       ]
     },
