@@ -146,6 +146,13 @@ export const mockData = {
           "url": "https://npcodex.kiroxubei.tech/console/token",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/npcodex.kiroxubei.tech"
+        },
+        {
+          "id": "site-1771003109876",
+          "name": "Old公益站",
+          "url": "https://sakuradori.dpdns.org/console",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sakuradori.dpdns.org"
         }
       ]
     },
@@ -283,13 +290,6 @@ export const mockData = {
           "url": "https://www.adobe.com/products/xd.html",
           "description": "用户体验设计工具",
           "icon": "/sitelogo/www.adobe.com.ico"
-        },
-        {
-          "id": "site-1771000826633",
-          "name": "抖音表情包库",
-          "url": "https://mzbbb.dpdns.org/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/mzbbb.dpdns.org"
         }
       ]
     },
