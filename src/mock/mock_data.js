@@ -175,6 +175,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "site-1771050934928",
+          "name": "SpaceShip域名购买",
+          "url": "https://www.spaceship.com/zh/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.spaceship.com"
         }
       ]
     },
