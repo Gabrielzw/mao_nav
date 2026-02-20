@@ -182,6 +182,13 @@ export const mockData = {
           "url": "https://www.spaceship.com/zh/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.spaceship.com"
+        },
+        {
+          "id": "site-1771576893644",
+          "name": "云服务器测评",
+          "url": "https://digvps.com/review",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/digvps.com"
         }
       ]
     },
