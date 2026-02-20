@@ -439,6 +439,13 @@ export const mockData = {
           "url": "https://www.futunn.com",
           "description": "港美股交易软件",
           "icon": "/sitelogo/www.futunn.com.ico"
+        },
+        {
+          "id": "site-1771601584909",
+          "name": "Crypto助手",
+          "url": "https://crypto.225567.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/crypto.225567.xyz"
         }
       ]
     },
