@@ -40,13 +40,6 @@ export const mockData = {
           "url": "https://outlook.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/outlook.com"
-        },
-        {
-          "id": "site-1771596412933",
-          "name": "1panel-狐蒂云",
-          "url": "https://panel.225567.xyz/9ff95a2b6f",
-          "description": "",
-          "icon": ""
         }
       ]
     },
@@ -160,6 +153,13 @@ export const mockData = {
           "url": "https://sakuradori.dpdns.org/console",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/sakuradori.dpdns.org"
+        },
+        {
+          "id": "site-1771598258509",
+          "name": "OpenWebUI",
+          "url": "https://chat.225567.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/chat.225567.xyz"
         }
       ]
     },
@@ -203,13 +203,6 @@ export const mockData = {
           "url": "https://www.szhdy.com/clientarea",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.szhdy.com"
-        },
-        {
-          "id": "site-1771596460881",
-          "name": "1panel-狐蒂云",
-          "url": "https://panel.225567.xyz/9ff95a2b6f",
-          "description": "",
-          "icon": ""
         }
       ]
     },
@@ -446,13 +439,6 @@ export const mockData = {
           "url": "https://www.futunn.com",
           "description": "港美股交易软件",
           "icon": "/sitelogo/www.futunn.com.ico"
-        },
-        {
-          "id": "site-1771596361830",
-          "name": "Crypto助手",
-          "url": "https://crypto.225567.xyz",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/crypto.225567.xyz"
         }
       ]
     },
