@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://outlook.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/outlook.com"
+        },
+        {
+          "id": "site-1771596412933",
+          "name": "1panel-狐蒂云",
+          "url": "https://panel.225567.xyz/9ff95a2b6f",
+          "description": "",
+          "icon": ""
         }
       ]
     },
