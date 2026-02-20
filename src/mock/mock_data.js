@@ -189,6 +189,13 @@ export const mockData = {
           "url": "https://digvps.com/review",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/digvps.com"
+        },
+        {
+          "id": "site-1771578854887",
+          "name": "狐蒂云",
+          "url": "https://www.szhdy.com/clientarea",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.szhdy.com"
         }
       ]
     },
