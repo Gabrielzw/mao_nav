@@ -203,6 +203,13 @@ export const mockData = {
           "url": "https://www.szhdy.com/clientarea",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.szhdy.com"
+        },
+        {
+          "id": "site-1771596460881",
+          "name": "1panel-狐蒂云",
+          "url": "https://panel.225567.xyz/9ff95a2b6f",
+          "description": "",
+          "icon": ""
         }
       ]
     },
