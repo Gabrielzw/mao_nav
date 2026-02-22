@@ -375,6 +375,20 @@ export const mockData = {
           "url": "https://hayde0096.github.io/iead/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/hayde0096.github.io"
+        },
+        {
+          "id": "site-1771728531103",
+          "name": "AI图像提示词",
+          "url": "https://ryanai.org/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ryanai.org"
+        },
+        {
+          "id": "site-1771728557833",
+          "name": "grok图像生成",
+          "url": "https://grok.jiuuij.de5.net/imagine",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/grok.jiuuij.de5.net"
         }
       ]
     },
