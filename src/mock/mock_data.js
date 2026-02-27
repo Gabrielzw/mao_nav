@@ -40,6 +40,27 @@ export const mockData = {
           "url": "https://outlook.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/outlook.com"
+        },
+        {
+          "id": "site-1772210999756",
+          "name": "Monaka中转站",
+          "url": "https://newapi.225567.xyz/console",
+          "description": "",
+          "icon": "https://picui.ogmua.cn/s1/2026/02/27/69a18df8c817b.webp"
+        },
+        {
+          "id": "site-1772211027913",
+          "name": "自建SiYuan笔记",
+          "url": "https://memo.225567.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/memo.225567.xyz"
+        },
+        {
+          "id": "site-1772211087135",
+          "name": "自建OpenWebUI",
+          "url": "https://chat.225567.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/chat.225567.xyz"
         }
       ]
     },
