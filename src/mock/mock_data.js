@@ -389,6 +389,13 @@ export const mockData = {
           "url": "https://grok.jiuuij.de5.net/imagine",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/grok.jiuuij.de5.net"
+        },
+        {
+          "id": "site-1772195358418",
+          "name": "PICU图床",
+          "url": "https://picui.cn/",
+          "description": "",
+          "icon": "https://picui.ogmua.cn/s1/2026/02/27/69a18df8c817b.webp"
         }
       ]
     },
