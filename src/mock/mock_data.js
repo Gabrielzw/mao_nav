@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://chat.225567.xyz",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/chat.225567.xyz"
+        },
+        {
+          "id": "site-1772254783497",
+          "name": "文件中转站",
+          "url": "https://transfer.225567.xyz",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/transfer.225567.xyz"
         }
       ]
     },
