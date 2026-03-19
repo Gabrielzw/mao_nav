@@ -231,6 +231,13 @@ export const mockData = {
           "url": "https://www.szhdy.com/clientarea",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.szhdy.com"
+        },
+        {
+          "id": "site-1773924790907",
+          "name": "接码平台",
+          "url": "https://sms-man.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sms-man.com"
         }
       ]
     },
